@@ -1,0 +1,7 @@
+this is first file
+changed by jugal
+showing differences
+again modified
+this line is staged
+jugal bhai
+this is changed now
